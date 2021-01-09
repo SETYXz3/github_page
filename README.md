@@ -1,4 +1,4 @@
-## 無料利用はpublicなreposityのみとなります。
+## 無料利用はpublicなrepositoryのみとなります。
 
 ### How to Generate Documentation Sites with GitHub and Docsify
 
