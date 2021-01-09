@@ -1,4 +1,6 @@
-### How_to_Generate_Documentation_Sites_with_GitHub_and_Docsify
+## 無料利用はpublicなreposityのみとなります。
+
+### How to Generate Documentation Sites with GitHub and Docsify
 
 #### 1. Check node.js is installed.
 ```
@@ -56,7 +58,7 @@ $ git push orign main
 ```
 
 #### 6. Generate the GitHub page.
-GitHub Pages
+Setting -> GitHub Pages ->
 
 Source:
 master branch / docs folder
