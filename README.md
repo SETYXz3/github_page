@@ -63,6 +63,8 @@ Setting -> GitHub Pages ->
 Source:
 master branch / docs folder
 
+#### 7. open with Browser
 
-
+URL:
+[https://setyxz3.github.io/github_page/](https://setyxz3.github.io/github_page/)
 
